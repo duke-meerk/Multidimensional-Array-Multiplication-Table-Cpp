@@ -1,4 +1,10 @@
-﻿#include <iostream>
+//////////////////////////////////////////////////////
+// Author : Barau Andrei Cristian a.k.a Cristian880 // 
+//                Happy coding                      // 
+//////////////////////////////////////////////////////
+
+
+#include <iostream>
 #include <conio.h>
 using namespace std;
 
@@ -14,11 +20,11 @@ int main()
     int cols = 11;
 
 
-    cout << "============================================" << endl;
-    cout << "∥      Multiplication Table 2.0 | 1-10 |   ∥" << endl;
-    cout << "∥        by: Barau Andrei Cristian         ∥" << endl;
-    cout << "∥              Cristian880                 ∥" << endl;
-    cout << "============================================" << endl;
+    cout << "============================================" << endl; // YOU CAN DELETE THIS IF YOU WANT! //
+    cout << "∥      Multiplication Table 2.0 | 1-10 |   ∥" << endl; // YOU CAN DELETE THIS IF YOU WANT! //
+    cout << "∥        by: Barau Andrei Cristian         ∥" << endl; // YOU CAN DELETE THIS IF YOU WANT! //
+    cout << "∥              Cristian880                 ∥" << endl; // YOU CAN DELETE THIS IF YOU WANT! //
+    cout << "============================================" << endl; // YOU CAN DELETE THIS IF YOU WANT! //
 
 
 
@@ -46,11 +52,11 @@ int main()
     cout << endl;
 
 
-    cout << "============================================" << endl;
-    cout << "∥      Multiplication Table 2.0 | 1-10 |   ∥" << endl;
-    cout << "∥        by: Barau Andrei Cristian         ∥" << endl;
-    cout << "∥              Cristian880                 ∥" << endl;
-    cout << "============================================" << endl;
+    cout << "============================================" << endl; // YOU CAN DELETE THIS IF YOU WANT! //
+    cout << "∥      Multiplication Table 2.0 | 1-10 |   ∥" << endl; // YOU CAN DELETE THIS IF YOU WANT! //
+    cout << "∥        by: Barau Andrei Cristian         ∥" << endl; // YOU CAN DELETE THIS IF YOU WANT! //
+    cout << "∥              Cristian880                 ∥" << endl; // YOU CAN DELETE THIS IF YOU WANT! //
+    cout << "============================================" << endl; // YOU CAN DELETE THIS IF YOU WANT! //
 
     // nested for-loop
     for (int i = 1; i < rows; i++) {
